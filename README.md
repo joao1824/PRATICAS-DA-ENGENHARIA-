@@ -2,9 +2,9 @@
 
 🧩Olá! Meu nome é João Henrique Camilo Fogaça e este é o meu repositório de práticas de engenharia.
 
-🧩Este repositório é dedicado a compartilhar minhas experiências, aprendizados e melhores práticas na área de engenharia. Aqui, você encontrará uma variedade de projetos, experimentos e documentações que refletem minha jornada e crescimento como engenheiro.
+🧩Este repositório é dedicado a compartilhar minhas experiências e aprendizados que relizei na aula de práticas de engenharia. Aqui, você encontrará uma variedade de projetos, experimentos e documentações que refletem minha jornada e crescimento como engenheiro.
 
-## Conteúdo do Repositório
+## 👽Conteúdo do Repositório👽
 
 Este repositório contém:
 
